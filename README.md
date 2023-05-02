@@ -7,4 +7,4 @@ https://public.tableau.com/app/profile/jorge.d.az.suarez/viz/BubbleChart_1683049
 https://public.tableau.com/app/profile/jorge.d.az.suarez/viz/Beeswarmplot_16830499196610/Hoja1?publish=yes
 
 
-Se añaden también tres archivos con las imagenes de las visualizaciones
+Se añaden también tres archivos con las imagenes de las visualizaciones. 
